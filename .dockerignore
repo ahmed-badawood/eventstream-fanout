@@ -1,0 +1,8 @@
+.git
+.vscode
+.idea
+__pycache__
+*.pyc
+*.log
+.env
+checkpoints
